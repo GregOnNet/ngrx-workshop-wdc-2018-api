@@ -17,7 +17,7 @@ Nach der Installation läuft die API lokal und benötigt keinen Zugriff auf ande
 
 ```bash
 # Herunterladen
-git clone https://github.com/GregOnNet/leipzig-2018-10-12-api.git
+git clone https://github.com/GregOnNet/ngrx-workshop-wdc-2018-api.git
 
 # In das API Verzeichnis wechseln
 cd leipzig-2018-10-12-api
